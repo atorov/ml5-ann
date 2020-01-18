@@ -11,6 +11,7 @@ module.exports = {
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly',
+    ml5: 'readonly',
     p5: 'readonly',
   },
   parserOptions: {
