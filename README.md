@@ -1,3 +1,3 @@
-# ml5-ann
+# ml5-pose-net
 
-![alt application screenshot](https://github.com/atorov/ml5-ann/blob/master/demo.gif)
+![application screenshot](https://github.com/atorov/ml5-pose-net/blob/master/demo.gif)

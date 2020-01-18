@@ -1,5 +1,5 @@
 {
-    "name": "ml5-ann",
+    "name": "ml5-pose-net",
     "version": "1.0.0",
     "scripts": {
         "start": "reload -b -v",
@@ -7,14 +7,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/atorov/ml5-ann.git"
+        "url": "git+https://github.com/atorov/ml5-pose-net.git"
     },
     "author": "atorov",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/atorov/ml5-ann/issues"
+        "url": "https://github.com/atorov/ml5-pose-net/issues"
     },
-    "homepage": "https://github.com/atorov/ml5-ann#readme",
+    "homepage": "https://github.com/atorov/ml5-pose-net#readme",
     "devDependencies": {
         "eslint": "^6.7.2",
         "eslint-config-airbnb-base": "^14.0.0",
