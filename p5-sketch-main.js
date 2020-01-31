@@ -5,7 +5,7 @@ const p5Main = new p5((sketch) => {
 
     let poseNet
     let poses
-    let skeleton
+    // let skeleton
     let video
 
     s.preload = () => { }
