@@ -17,8 +17,8 @@
     "homepage": "https://github.com/atorov/ml5-pose-net#readme",
     "devDependencies": {
         "eslint": "^6.7.2",
-        "eslint-config-airbnb-base": "^14.0.0",
-        "eslint-plugin-import": "^2.18.2",
+        "eslint-config-airbnb-base": "^14.1.0",
+        "eslint-plugin-import": "^2.20.1",
         "reload": "^3.0.3"
     }
 }
